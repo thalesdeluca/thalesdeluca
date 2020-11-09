@@ -5,4 +5,4 @@
 - Learning C# and Unity
 - Want to learn in the future: Rust, C++, Python
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thalesdeluca&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thalesdeluca&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
